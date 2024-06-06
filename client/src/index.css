@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "RivieraBlack";
+  src: local("RivieraBlack"),
+    url("./assets/fonts/RivieraNightsTrial-Black.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "RivieraBold";
+  src: local("RivieraBold"),
+    url("./assets/fonts/RivieraNightsTrial-Bold.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "RivieraRegular";
+  src: local("RivieraRegular"),
+    url("./assets/fonts/RivieraNightsTrial-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "RivieraLight";
+  src: local("RivieraLight"),
+    url("./assets/fonts/RivieraNightsTrial-Light.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroyBlack";
+  src: local("GilroyBlack"),
+    url("./assets/fonts/Gilroy/Gilroy-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroyBold";
+  src: local("GilroyBold"),
+    url("./assets/fonts/Gilroy/Gilroy-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroySemiBold";
+  src: local("GilroySemiBold"),
+    url("./assets/fonts/Gilroy/Gilroy-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroyRegular";
+  src: local("GilroyRegular"),
+    url("./assets/fonts/Gilroy/Gilroy-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroyThin";
+  src: local("GilroyThin"),
+    url("./assets/fonts/Gilroy/Gilroy-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GilroyLight";
+  src: local("GilroyLight"),
+    url("./assets/fonts/Gilroy/Gilroy-Light.ttf") format("truetype");
+}
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "GilroyRegular", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.Toastify__toast-theme--dark {
+  background-color: #00000076 !important;
+}
+body,
+button,
+input {
+  font-family: "Josefin Sans", sans-serif;
+}

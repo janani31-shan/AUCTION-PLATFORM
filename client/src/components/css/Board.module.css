@@ -1,0 +1,12 @@
+.page-button {
+  border: 2px solid #c9c9c6;
+  color: #2d2d2d;
+  margin: 0 5px;
+}
+
+.page-button:hover {
+  background-color: #daa520;
+  color: white;
+  border: none;
+  transition: background-color 0.5s ease, color 0.5s;
+}
