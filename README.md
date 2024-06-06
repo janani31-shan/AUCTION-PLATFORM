@@ -1,4 +1,4 @@
-BITHACKATHON'23
+
 # Auction Platform 🛍️
 
 Welcome to the Auction Platform! This is a web application built using the MERN stack that allows users to participate in auctions for various items.
@@ -48,10 +48,4 @@ https://github.com/gokulsarveshsk/auction_platform/assets/106106967/419777cd-0c3
 <img width="411" alt="Screenshot 2023-11-07 at 11 17 40 PM" src="https://github.com/gokulsarveshsk/auction_platform/assets/106106967/992a68c0-14e7-4fae-aed1-fd0988338b1c">
 
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact 📬
-
-Have questions or suggestions? Feel free to reach out to us at gokulsarveshsk@gmail.com
