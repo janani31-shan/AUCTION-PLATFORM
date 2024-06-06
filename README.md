@@ -29,7 +29,7 @@ Welcome to the Auction Platform! This is a web application built using the MERN 
 
 ## Getting Started 🏁
 
-1. Clone the repository: `git clone https://github.com/gokulsarveshsk/auction_platform.git`
+1. Clone the repository: `https://github.com/janani31-shan/AUCTION-PLATFORM`
 2. Navigate to the project folder: `cd auction_platform`
 3. Install dependencies for the backend: `cd server && npm install`
 4. Install dependencies for the frontend: `cd ../client && npm install`
